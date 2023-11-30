@@ -73,7 +73,7 @@ const Navbar = () => {
 					onClick={() => handleMenuClick("Help & Support")}
 				/>
 			</div>
-			<div className="">
+			<div>
 				<NavbarMenu
 					icon={<TbLogout2 />}
 					text="Logout"
