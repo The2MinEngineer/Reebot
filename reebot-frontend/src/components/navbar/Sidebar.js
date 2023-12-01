@@ -91,7 +91,7 @@ const SidebarItem = ({ icon, text, active, alert }) => {
 				<div
 					className={`
           absolute left-full rounded-md px-2 py-1 ml-6
-          bg-[#287DF9] text-white text-sm invisible opacity-20 -translate-x-3 transition-all
+          bg-[#181818] bg-opacity-70 text-white text-sm invisible opacity-20 -translate-x-3 transition-all
           group-hover:visible group-hover:opacity-100 group-hover:translate-x-0
       `}
 				>
