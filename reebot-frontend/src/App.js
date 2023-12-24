@@ -5,11 +5,11 @@ import Navbar from "./components/navbar/Navbar";
 
 function App() {
 	return (
-		<div className="flex">
+		<div className="flex bg-background-color">
 			<div>
 				<Sidebar />
 			</div>
-			<div>
+			<div className="w-full">
 				<div>
 					<Navbar />
 				</div>
